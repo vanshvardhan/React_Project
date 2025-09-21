@@ -1,0 +1,30 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "This is learning of react ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vanshvardhan@github.com/vanshvardhan/React_Project.git"
+  },
+  "keywords": [
+    "react_learning"
+  ],
+  "author": "Vansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanshvardhan/React_Project/issues"
+  },
+  "homepage": "https://github.com/vanshvardhan/React_Project#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
